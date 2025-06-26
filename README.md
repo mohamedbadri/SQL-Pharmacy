@@ -29,7 +29,7 @@ This project is a simulated **pharmacy database system** developed as part of th
 
 - **PostgreSQL 15+**
 - **PL/pgSQL**
-- **Python 3.x**
+- **Python 3.2**
 - **psycopg2**
 - **Docker**
 
