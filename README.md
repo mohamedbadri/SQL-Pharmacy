@@ -43,7 +43,7 @@ This project is a simulated **pharmacy database system** developed as part of th
    docker exec -it container-psql psql -U cse182
 
 
-**Learning Outcomes
+**Learning Outcomes**
 
 Designed and implemented normalized relational database schemas
 
